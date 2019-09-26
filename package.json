@@ -1,0 +1,11 @@
+{
+  "name": "bot-twitter-apod",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "socket.io": "^2.3.0",
+    "superagent": "^5.1.0",
+    "twit": "^2.2.11"
+  }
+}
