@@ -1,1 +1,1 @@
-# twitter-bot-apod
+# APOD Twitter Bot
