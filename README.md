@@ -14,4 +14,4 @@ Pour pouvoir utiliser l'APOD Twitter Bot, il vous faudra au préalable télécha
 5. Exécutez `npm i`.
 
 ## Fonctionnement
-Le programme fonctionne pour le moment avec deux fichiers à exécuter séparément, le premier, `apod-image.js`, télécharge l'image du jour et la place dans le répertoire ou se situs le fichier. Le deuxième, `tweet.js`, envois l'image téléchargée précédament vers twitter avec quelques informations sur celle-ci.
+Le programme fonctionne pour le moment avec deux fichiers à exécuter séparément, le premier, `apod-image.js`, télécharge l'image du jour et la place dans le répertoire ou se situs le fichier. Le deuxième, `tweet.js`, envoie l'image téléchargée précédemment vers Twitter avec quelques informations sur celle-ci.
