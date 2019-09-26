@@ -10,7 +10,7 @@ Pour pouvoir utiliser l'APOD Twitter Bot, il vous faudra au préalable télécha
 1. Ouvrir un terminal.
 2. Naviguez jusqu'à l'emplacement souhaité pour le référentiel.
 3. Cloner le référentiel avec la commande `git clone https://github.com/smallrocketoff/apod-twitter-bot.git`.
-4. Accédez à `/ apod-twitter-bot`.
+4. Accédez à `/apod-twitter-bot`.
 5. Exécutez `npm i`.
 
 ## Fonctionnement
