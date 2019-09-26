@@ -4,7 +4,7 @@ L'Astronomy Picture of the Day Twitter Bot vous permet de poster de manière aut
 
 # Commencer
 ## Prérequis
-Pour pouvoir utiliser l'APOD Twitter Bot, il vous faudra au préalable télécharger et installer Node.js ainsi que git.
+Pour pouvoir utiliser l'APOD Twitter Bot, il vous faudra au préalable télécharger et installer Node.js ainsi que git. Il vous faudra également générer une clé API sur <https://api.nasa.gov> et avoir créer une application Twitter sur <https://developer.twitter.com/>.
 
 ## Installation
 1. Ouvrir un terminal.
